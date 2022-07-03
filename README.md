@@ -11,7 +11,7 @@ Um projeto simples que consiste em um background switcher, onde ao clicar no bot
 
 
 
-## ⚒ Stack utilizada
+## ⚒ Tecnologias utilizadas
 
 - HTML
 - SASS
